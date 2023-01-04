@@ -7,12 +7,14 @@ import LanguageItemGroup from "../components/Programming/LanguageItemGroup";
 
 import programmingSkills from "../config/programming.json";
 import IntroductionHero from "../components/Design/IntroductionHero";
+import ThemeSwitcher from "../components/Theme/ThemeSwitcher";
 
 export default function Home() {
   return (
     <div className={styles.container}>
       <Meta title="Home" />
       <main className={styles.main}>
+        <ThemeSwitcher />
         <Section
         >
           <IntroductionHero/>

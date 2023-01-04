@@ -1,0 +1,25 @@
+/* Theme Switcher switch CSS */
+
+.themeSwitcher {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.themeSwitcherSwitch {
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.switcherIcon {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  top: 0;
+}
