@@ -1,0 +1,27 @@
+.languageItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding-top: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.languageItemBadge {
+    font-weight: 600;
+}
+
+.languageItemIcon {
+    font-size: 1.5em !important;
+    width: 32px;
+    height: 32px;
+}
+
+.languageItemName {
+    font-family: var(--font-sans) !important;
+}

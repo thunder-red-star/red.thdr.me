@@ -1,0 +1,63 @@
+.introductionHero {
+  padding: 2rem 0;
+  height: fit-content;
+}
+
+.introductionHeroSubtext {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  font-family: var(--font-mono) !important;
+  text-decoration: underline;
+}
+
+.introductionHeroTitle {
+  font-size: calc(max(2.5rem, 5vw));
+  font-weight: 600;
+  margin-top: 1rem;
+  font-family: var(--font-serif);
+  z-index: 2;
+  opacity: 1
+}
+
+.introductionHeroText {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-top: 1rem;
+  font-family: var(--font-sans);
+}
+
+.introductionHeroTextUnderline {
+  text-decoration: underline;
+}
+
+.introductionHeroDownArrow {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  width: 48px;
+  height: 48px;
+  opacity: 0.2;
+  position: absolute;
+  bottom: 50px;
+  left: calc(50% - 24px);
+  animation: downArrow 1s infinite;
+}
+
+@keyframes downArrow {
+  0% {
+    height: 48px;
+  }
+  50% {
+    height: 64px;
+  }
+  100% {
+    height: 48px;
+  }
+}
+
+.introductionHeroTtten {
+  z-index: 0;
+  position: absolute;
+  right: 0;
+  height: 60%;
+}

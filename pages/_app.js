@@ -18,7 +18,6 @@ const darkTheme = createTheme({
   theme: {
     colors: {
       "background": "#1c1a1a",
-      "primary": "#FBC6C6",
       "sectionColor": "#FFFFFF",
     }
   }

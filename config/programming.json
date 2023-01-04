@@ -1,0 +1,158 @@
+{
+  "languages": [
+    {
+      "name": "JavaScript",
+      "icon": "/img/programming/javascript.svg",
+      "skillLevel": "Expert"
+    },
+    {
+      "name": "Python",
+      "icon": "/img/programming/python.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Java",
+      "icon": "/img/programming/java.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Julia",
+      "icon": "/img/programming/julia.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "HTML",
+        "icon": "/img/programming/html.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "CSS",
+        "icon": "/img/programming/css.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "C",
+      "icon": "/img/programming/c.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Bash",
+      "icon": "/img/programming/bash.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "daScript",
+      "icon": "/img/programming/das.png",
+      "skillLevel": "Beginner"
+    },
+    {
+      "name": "C++",
+      "icon": "/img/programming/cpp.svg",
+      "skillLevel": "Beginner"
+    },
+    {
+      "name": "Lua",
+      "icon": "/img/programming/lua.svg",
+      "skillLevel": "Beginner"
+    },
+    {
+      "name": "Rust",
+        "icon": "/img/programming/rust.svg",
+        "skillLevel": "Beginner"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Discord.js",
+      "icon": "/img/programming/discordjs.svg",
+      "skillLevel": "Expert"
+    },
+    {
+      "name": "Tensorflow",
+        "icon": "/img/programming/tensorflow.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "Next.js",
+      "icon": "/img/programming/nextjs.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "React",
+      "icon": "/img/programming/react.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Nuxt.js",
+      "icon": "/img/programming/nuxtjs.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Express.js",
+      "icon": "/img/programming/expressjs.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Flask",
+      "icon": "/img/programming/flask.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "/img/programming/bootstrap.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "jQuery",
+      "icon": "/img/programming/jquery.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Vue.js",
+      "icon": "/img/programming/vuejs.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Fastify",
+        "icon": "/img/programming/fastify.svg",
+        "skillLevel": "Beginner"
+    },
+    {
+      "name": "Webpack",
+        "icon": "/img/programming/webpack.svg",
+        "skillLevel": "Beginner"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+        "icon": "/img/programming/git.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "GitHub",
+        "icon": "/img/programming/github.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "Oracle Cloud",
+        "icon": "/img/programming/oracle.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "Vercel",
+      "icon": "/img/programming/vercel.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Jupyter",
+        "icon": "/img/programming/jupyter.svg",
+        "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Docker",
+        "icon": "/img/programming/docker.svg",
+        "skillLevel": "Beginner"
+    }
+  ]
+}
